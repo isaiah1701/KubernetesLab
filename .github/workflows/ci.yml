@@ -1,0 +1,4 @@
+name: Docker file check 
+
+on: push 
+ 
